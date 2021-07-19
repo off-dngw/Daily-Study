@@ -12,6 +12,11 @@
 - [TIL / 07.16 TIL](./TIL/07.16TIL.MD)
 - [Programmers 문자열 내 p와 y의 개수](./PROGRAMMERS/문자열내p와y의개수.MD)
 
+> 2021 - 07 - 19
+- [JAVASCRIPT constructor,extends,super](./JAVASCRIPT/생성자,상속,Super.MD)
+- [Programmers 완주하지 못한 선수](./PROGRAMMERS/완주하지못한선수.MD)
+
+
 
 
 
