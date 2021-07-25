@@ -24,7 +24,7 @@
 - [JAVASCRIPT 큐,스택](./JAVASCRIPT/Queue,Stack.MD)
 
 > 2021 - 07 - 23
-- [JAVASCRIPT 트리 기초](./JAVASCRIPT/Tree기초md)
+- [JAVASCRIPT 트리 기초](./JAVASCRIPT/Tree기초.md)
 - [JAVASCRIPT 트리의 종류](./JAVASCRIPT/트리의종류.MD)
 - [JAVASCRIPT 트리 순회 정리](./JAVASCRIPT/트리순회정리.md)
 
