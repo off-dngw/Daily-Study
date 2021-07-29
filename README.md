@@ -30,9 +30,11 @@
 > 2021 - 07 - 26
 - [Programmers 약수의 갯수와 덧셈](./PROGRAMMERS/나누어떨어지는숫자배열.md)
 
-> 20201 - 07 - 27
+> 2021 - 07 - 27
 - [Node 프로미스](./Node.JS/Promise.md)
 - [async-await](./Node.JS/async-await.md)
 - [Programmers K번째수](./PROGRAMMERS/K번째수.md)
-> > 20201 - 07 - 27
+> 2021 - 07 - 28
 - [Programmers 두개뽑아서더하기](./PROGRAMMERS/두개뽑아서더하기.md)
+> 2021 - 07 - 29
+- [Programmers 서울에서김서방찾기](./PROGRAMMERS/서울에서김서방찾기.md)
