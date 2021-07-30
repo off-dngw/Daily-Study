@@ -38,3 +38,6 @@
 - [Programmers 두개뽑아서더하기](./PROGRAMMERS/두개뽑아서더하기.md)
 > 2021 - 07 - 29
 - [Programmers 서울에서김서방찾기](./PROGRAMMERS/서울에서김서방찾기.md)
+> 2021 - 07 - 30
+- [클라이언트 서버아키텍처](./HTTP,Client,Server/클라이언트서버아키텍처.md)
+- [클라이언트-서버 통신과 API](./HTTP,Client,Server/클라이언트-서버통신과API.md)
