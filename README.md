@@ -41,3 +41,5 @@
 > 2021 - 07 - 30
 - [클라이언트 서버아키텍처](./HTTP,Client,Server/클라이언트서버아키텍처.md)
 - [클라이언트-서버 통신과 API](./HTTP,Client,Server/클라이언트-서버통신과API.md)
+- [URL과URI](./HTTP,Client,Server/URL과URI.md)
+
