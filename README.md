@@ -47,3 +47,8 @@
 - [상태 끌어 올리기](./REACT/LiftingStateUp.md)
 - [SideEffect,순수함수](./REACT/SideEffect,Purefunction.md)
 - [useEffect](./REACT/useEffect.md)
+
+> 2021 - 08 - 04 
+- [같은 숫자는 싫어](./PROGRAMMERS/같은숫자는싫어.md)
+> 2021 - 08 - 05 
+- [Programmers 부족한 금액 계산하기](./PROGRAMMERS/부족한금액계산하기.md)
