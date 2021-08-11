@@ -52,3 +52,8 @@
 - [같은 숫자는 싫어](./PROGRAMMERS/같은숫자는싫어.md)
 > 2021 - 08 - 05 
 - [Programmers 부족한 금액 계산하기](./PROGRAMMERS/부족한금액계산하기.md)
+
+- [URL과 URI](./HTTP,Client,Server/URL과URI.md)
+- [SOP,CORS](./HTTP,Client,Server/SOP,CORS.md)
+- [PreFlight](./HTTP,Client,Server/Preflight.md)
+
