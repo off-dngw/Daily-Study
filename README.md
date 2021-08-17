@@ -53,7 +53,15 @@
 > 2021 - 08 - 05 
 - [Programmers 부족한 금액 계산하기](./PROGRAMMERS/부족한금액계산하기.md)
 
+> 2021 - 08 - 10
 - [URL과 URI](./HTTP,Client,Server/URL과URI.md)
 - [SOP,CORS](./HTTP,Client,Server/SOP,CORS.md)
 - [PreFlight](./HTTP,Client,Server/Preflight.md)
+
+> 2021 - 08 - 16
+- [Programmers 프린터](./PROGRAMMERS/프린터.md)
+
+> 2021 - 08 - 17
+- [Programmers 124나라의 숫자](./PROGRAMMERS/124나라의숫자.md)
+
 
