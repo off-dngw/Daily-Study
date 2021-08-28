@@ -3,13 +3,18 @@
 ## 프로그래머스 1일 1문제
 
 ----------
-> 2021 - 08 - 26 ~ 29 MYSQL 문법 정리 
+> 2021 - 08 - 26 ~ 29 MYSQL 정리 
 - [제약 조건 NOT NULL](./MYSQL/제약조건-1(NOTNULL).md)
 - [제약 조건 UNIQUE](./MYSQL/제약조건-2(UNIQUE).md)
 - [제약 조건 PRIMARY KEY](./MYSQL/제약조건-3(PK).md)
 - [제약 조건 DEFAULT](./MYSQL/제약조건-5(DEFAULT).md)
 - [제약 조건 FOREIGN KEY](./MYSQL/제약조건-4(FK).md)
 - [FK의 Update,Delete](./MYSQL/ONDELETE,ONUPDATE,CASCADE.md)
+- [INNER JOIN](./MYSQL/JOIN/INNERJOIN.md)
+- [LEFT JOIN](./MYSQL/JOIN/LEFTJOIN.md)
+- [RIGHT JOIN](./MYSQL/JOIN/RIGHTJOIN.md)
+
+
 
 > 2021 - 07 - 16
 - [REACT / JSX 문법 ](./REACT/JSX문법.MD)
