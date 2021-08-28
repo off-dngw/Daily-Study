@@ -14,7 +14,7 @@ ID INT NOT NULL,
 Name VARCHAR(30)
 ```
 #### 실행 결과
-
+![NN1](./img/NN1.png)
 
 위에 실행결과 에서는 이제부터 Test 테이블에 INSERT 문법으로 새로운 레코드를 추가 할 때 ID의 필드의 값으로 NULL을 사용할 수 없습니다.
 
@@ -53,4 +53,4 @@ MODIFY COLUMN Name VARCHAR(30) NOT NULL;
 ```
 #### 실행 결과
 
-
+![NN2](./img/NN2.png)
