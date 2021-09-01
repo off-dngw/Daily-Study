@@ -14,7 +14,7 @@ npx sequelize-cli init // 프로젝트 초기단계를 자동으로 설정 해�
 npx sequelize-cli init을 입력하면 config, migrations,models,seeders 폴더가 생긴다.
 
 1.Config 설정하기
-/config/config.json 파일을 보면 delvelopment, test, production 세 개의 목록 이있는데 말 그대로 개발환경, 테스트목적, Production(운영환경) 나누어 지는데 자기가 사용할 필드의 SQL 환경에 따라 수정하면 됩니다. 
+/config/config.json 파일을 보면 delvelopment, test, production 세 개의 목록 이있는데 말 그대로 개발환경, 테스트목적, Production(운영환경) 으로 나누어 지는데 자기가 사용할 필드의 SQL 환경에 따라 수정하면 됩니다. 
 
 2.모델 정의하기
 모델은 SQL 테이블에 대응하는 개념입니다. 시퀄라이즈는 모델과 SQL 의 테이블을 연결시켜주는 역할을 합니다.
