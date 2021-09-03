@@ -8,7 +8,7 @@
 - [제약 조건 UNIQUE](./MYSQL/제약조건-2(UNIQUE).md)
 - [제약 조건 PRIMARY KEY](./MYSQL/제약조건-3(PK).md)
 - [제약 조건 DEFAULT](./MYSQL/제약조건-5(DEFAULT).md)
-- [제약 조건 FOREIGN KEY](./MYSQL/제약조건-4(FK).md)
+- [제약 조건 FOREIGN KEY](../MYSQL/제약조건-4(FK).md)
 - [FK의 Update,Delete](./MYSQL/ONDELETE,ONUPDATE,CASCADE.md)
 - [INNER JOIN](./MYSQL/JOIN/INNERJOIN.md)
 - [LEFT JOIN](./MYSQL/JOIN/LEFTJOIN.md)
